@@ -28,6 +28,10 @@ background-color: grey
 }
 img { margin-left: 1em
 }
+div { color: white;
+	font-size: 100%;
+	margin-left: 5px
+}
 /* reasonable starting margins */
 p, h1, ol, ul, li { margin: 12pt; }
 li { margin-left: 2em; }
