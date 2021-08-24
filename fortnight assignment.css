@@ -47,7 +47,7 @@ body {
 /* Left and right column */
 .column.side {
   width: 33%;
-  background-color: blue;
+  background-color: grey;
 }
 
 /* Middle column */
